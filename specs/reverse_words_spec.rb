@@ -27,7 +27,7 @@ describe "reverse words" do
   end
 
   # check for edge cases
-  xdescribe "edge cases" do
+  describe "edge cases" do
     # if it's a string parameter, check for empty
     it "reverse each word in an empty sentence" do
       test_string = ""
