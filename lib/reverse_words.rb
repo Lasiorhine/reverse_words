@@ -46,7 +46,7 @@ def reverse_words(my_words)
 end
 
 
-#  ORIGINAL VERSION:  PUT WORDS TO BE INVERTED INTO A SEPARATE ARRAY:
+#  ORIGINAL VERSION:  HELD WORDS TO BE INVERTED INTO A SEPARATE ARRAY:
 #
 # A method to reverse each word in a sentence, in place.
 ## Variable count: {
