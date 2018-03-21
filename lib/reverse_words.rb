@@ -8,6 +8,7 @@ Variable count:
   3.  origin_index
   4.  target_index
   5.  temp_reserv
+  6.  my_words  -- input
 
 Loop count:
   (my_words.length + 1).times do  (n times)
@@ -50,14 +51,14 @@ end
 #
 # A method to reverse each word in a sentence, in place.
 ## Variable count: {
-##   my_words   -- input
-##   index
-##   temp_array -- array
-##   temp_origin
-##   temp_target
-##   temp_temp
-##   replacement_index
-##   origin_index
+##   1. my_words   -- input
+##   2. index
+##   3. temp_array -- array
+##   4. temp_origin
+##   5. temp_target
+##   6. temp_temp
+##   7. replacement_index
+##   8. origin_index
 ##    }
 
 ###  Loop count:
